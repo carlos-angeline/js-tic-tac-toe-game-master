@@ -1,0 +1,20 @@
+{
+  "name": "js-tic-tac-toe-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "start": "node start.js"
+  },
+  "author": "Carlos Angeline",
+  "license": "ISC",
+  "bugs": {
+  
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
